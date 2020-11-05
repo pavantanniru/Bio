@@ -1,5 +1,8 @@
 body{
-  background-color:#00bfff;
+  background-color:light green;
+  margin:auto;
+  text-aligin:center;
+  
 
   
 }
@@ -14,9 +17,9 @@ body{
 }
 
 .img{
-  width: 199px;
+  width: 100px;
 
-  height: 200px;
+  height: 100px;
 
 }
 
